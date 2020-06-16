@@ -1,2 +1,4 @@
-class test{
-system.output.println("this is our first GIT jenkins project");  }
+ class test{
+	public static void main(String[] args){
+    System.out.println("Namaskar Pune");}
+ }
